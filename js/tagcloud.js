@@ -17,7 +17,7 @@
          TagCanvas.textFont = 'Trebuchet MS, Helvetica';
          TagCanvas.textColour = '#c4c6c9';
          TagCanvas.textHeight = 18;
-         TagCanvas.outlineColour = '#1c1c1e';
+         TagCanvas.outlineColour = '#80808000';
          TagCanvas.maxSpeed = 0.25;
          TagCanvas.freezeActive = false;
          TagCanvas.outlineMethod = 'block';
