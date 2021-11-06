@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.ccandle.top/2021/11/06/git_branch_management/</loc>
+    
+    <lastmod>2021-11-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.ccandle.top/2021/08/02/server-install/</loc>
     
     <lastmod>2021-08-02</lastmod>
@@ -88,7 +95,7 @@
 
   <url>
     <loc>https://blog.ccandle.top/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -96,105 +103,112 @@
   
   <url>
     <loc>https://blog.ccandle.top/tags/blog/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/github/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/python/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/pip/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/SQL/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/SQLite/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/vscode/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/C/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/course/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/%E6%8C%87%E9%92%88/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/Server/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/Nginx/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/CodeServer/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/Tex/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/tags/Ubuntu/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ccandle.top/tags/Git/</loc>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -203,35 +217,42 @@
   
   <url>
     <loc>https://blog.ccandle.top/categories/blog/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/categories/python/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/categories/tools/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/categories/C/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.ccandle.top/categories/Server/</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ccandle.top/categories/Git/</loc>
+    <lastmod>2021-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
